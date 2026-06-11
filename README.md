@@ -7,7 +7,8 @@ Built using **Scikit-learn** and deployed using **Streamlit Cloud**.
 ---
 
 ## 🌐 Live Demo
-👉 https://your-streamlit-app-link.streamlit.app  
+👉 [https://your-streamlit-app-link.streamlit.app](https://student-performance-application.streamlit.app/)  
+👉   
 
 ---
 
