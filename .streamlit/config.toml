@@ -1,6 +1,6 @@
 [theme]
-primaryColor = "#4CAF50"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F0F2F6"
-textColor = "#000000"
+primaryColor = "#2563EB"              # Blue (buttons, sliders)
+backgroundColor = "#0F172A"          # Dark background
+secondaryBackgroundColor = "#1E293B" # Cards / sections
+textColor = "#F8FAFC"                # White text (high visibility)
 font = "sans serif"
