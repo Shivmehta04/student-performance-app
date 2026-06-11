@@ -238,7 +238,7 @@ def load_model_files():
     columns = pickle.load(open(columns_path, "rb"))
     scaler = pickle.load(open(scaler_path, "rb"))
     numeric_cols = pickle.load(open(numeric_path, "rb"))
-    return model, columns, scaler, num_cols
+    return model, columns, scaler, numeric_cols
 
 try:
     model, columns, scaler, numeric_cols = load_model_files()
